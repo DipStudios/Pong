@@ -1,2 +1,2 @@
 # Pong
-Pong game test
+Run python file to play game
